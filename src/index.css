@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+input {
+  margin: 1px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.container-body {
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+
+  padding: 5px;
+}
+button {
+  background-color: beige;
+  padding: 2px;
+  margin: 2px;
+}
+input {
+  width: 200px !important;
+}
